@@ -14,7 +14,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -31,7 +31,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -48,7 +48,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -65,7 +65,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -82,7 +82,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         }
     ],
@@ -115,7 +115,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -146,7 +146,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -177,7 +177,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -208,7 +208,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -239,7 +239,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -270,7 +270,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
     ],
@@ -289,7 +289,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -306,7 +306,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -323,7 +323,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -340,7 +340,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         },
         {
@@ -357,7 +357,7 @@ export default {
             author: {
                 name: "Flying High",
                 img: "/images/author/author1.jpg",
-                designation : "CEO and Founder"
+                designation : "Full Stack Developer"
             }
         }
     ]
